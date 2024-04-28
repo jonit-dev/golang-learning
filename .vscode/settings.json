@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "GitHub Blue",
+  // format on save
+  "editor.formatOnSave": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  
+}
