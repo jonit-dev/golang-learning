@@ -1,9 +1,10 @@
 package stringlearning
 
 import (
-	"basics-app/src/stringutils"
 	"fmt"
 	"strconv"
+
+	"github.com/jonit-dev/basics-app/internal/stringutils"
 )
 
 func ExecStringLearning() {
