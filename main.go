@@ -1,7 +1,7 @@
 package main
 
-import "basics-app/src/stringutils"
+import "basics-app/src/stringlearning"
 
 func main() {
-	stringutils.ExecStringLearning()
+	stringlearning.ExecStringLearning()
 }
